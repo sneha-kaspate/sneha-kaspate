@@ -35,9 +35,6 @@ Analyzed workforce data to explore employee attrition, demographics, salary dist
 - **Python Libraries:** Pandas, NumPy
 
 ## 🎯 Career Goal
-Aspiring Data Analyst passionate about transforming raw data into meaningful insights and supporting data-driven decisions.
-
-## 🎯 Career Goal
 To become a **Data Analyst** and help businesses make **data-driven decisions**.
 
 ## 🤝 Connect With Me
